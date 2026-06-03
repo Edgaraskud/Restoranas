@@ -1,3 +1,5 @@
+// Restorano mini apskaitos sistema
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
