@@ -89,6 +89,7 @@ int main()
 
         suma += menu[pasirinkimas - 1].menuPrice * kiekis;
     }
+    // PVM skaiciavimas ir saskaitos isvedimas
 
     printCheck(suma);
 
